@@ -1,0 +1,5 @@
+{
+  "/api/admin/job-details/route": "app/api/admin/job-details/route.js",
+  "/page": "app/page.js",
+  "/owner/scrape-data/page": "app/owner/scrape-data/page.js"
+}
