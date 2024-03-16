@@ -24,7 +24,6 @@ export const register = async() => {
            
             try {
                
-
                browser = await puppeteer.connect({
                   browserWSEndpoint : SBR_WS_ENDPOINT,
                })
