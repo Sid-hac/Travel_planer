@@ -303,6 +303,8 @@ typings/
 # Icon must end with two \r
 Icon
 
+#next files
+.next
 
 # Thumbnails
 ._*
